@@ -25,5 +25,5 @@ A comprehensive Flask web application for managing blood supply chain operations
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/myanmar-blood-supply-system.git
+   git clone (https://github.com/jullianesamantha/Myanmar-Blood-Supply-Management.git)
    cd myanmar-blood-supply-system
